@@ -1,5 +1,3 @@
-
-# Team - Artificial Alliance
 # Mo Suraksha
 
 ## Minds that cure, hearts that care
@@ -22,7 +20,7 @@ Now clone this github repo by this command. Make sure you have git installed.
 
 ```bash
 cd <path-to-save-directory>
-git clone https://github.com/Parnani/Artificial_Alliance-Mo_Suraksha.git
+git clone https://github.com/sushovanb02/Mo-Suraksha.git
 ```
 
 To run the web app locally in your machine, run this command
@@ -41,20 +39,3 @@ streamlit run app.py
     - You will be asked to sign up there. Make sure you remember/save password
     - Use same credentials to save all test data. 
 - To view saved data, simply goto 'View Stored Data'. Then enter user details and check 'login' box. 
-
-## Known issues 
-- Implementation of signup/login button everywhere
-- Slower initial load time (time will be consumed in training ML datas)
-- Laggy graph
-- Needed to press C and clear streamlit cache in case some weird bugs comes up
-
-# Feel free to star this repo if you loved it
-
-## Credits
-
-GitHub / **[Parnani](https://github.com/Parnani/)** 
-
-Github / **[TechyAditya](https://github.com/TechyAditya)** 
-
-GitHub / **[sushovanb02](https://github.com/sushovanb02)** 
-# Mo-Suraksha
