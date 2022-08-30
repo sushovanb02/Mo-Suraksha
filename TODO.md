@@ -1,4 +1,3 @@
-# Team - Artificial Alliance
 # Mo Suraksha
 
 - added 3 .ipynb files for diabetes, heart disease and liver disease.
