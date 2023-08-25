@@ -1,5 +1,5 @@
 # Mo Suraksha
-Website URL - [https://mo-suraksha.herokuapp.com/](https://mo-suraksha.onrender.com/)
+Website URL - [Mo Suraksha](https://mo-suraksha.onrender.com/)
 
 ## Minds that cure, hearts that care
 
